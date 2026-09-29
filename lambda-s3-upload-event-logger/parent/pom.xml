@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <aws.sdk.version>1.11.265</aws.sdk.version>
-        <aws.sdk.s3.version>1.11.268</aws.sdk.s3.version>
+        <aws.sdk.s3.version>1.12.261</aws.sdk.s3.version>
         <aws.lambda.version>1.2.0</aws.lambda.version>
         <aws.lambda.events.version>2.0.2</aws.lambda.events.version>
     </properties>
