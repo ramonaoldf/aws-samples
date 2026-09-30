@@ -39,4 +39,4 @@
 - change the value of the parameters:
   - `AddCodeBuildTest` = `true`
   
-![Cross Account Pipeline](https://raw.githubusercontent.com/ttulka/aws-samples/master/cross-account-pipeline/pipeline.png)
+![Cross Account Pipeline](https://raw.githubusercontent.com/ramonaoldf/aws-samples/master/cross-account-pipeline/pipeline.png)

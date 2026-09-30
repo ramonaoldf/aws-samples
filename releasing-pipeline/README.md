@@ -2,7 +2,7 @@
 
 This product releasing pipeline triggers the manual approval in service pipelines.
 
-![Product Releasing Pipeline](https://raw.githubusercontent.com/ttulka/aws-samples/master/releasing-pipeline/pipeline.png)
+![Product Releasing Pipeline](https://raw.githubusercontent.com/ramonaoldf/aws-samples/master/releasing-pipeline/pipeline.png)
 
 ## Prepare
 1. Create a CodeCommit repositories `my-service-a` and `my-service-b`.

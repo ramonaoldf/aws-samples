@@ -4,7 +4,7 @@ Simple authentication (authenticated/unauthenticated) and authorization (allowed
 
 ## Big Picture
 
-![Big Picture](https://raw.githubusercontent.com/ttulka/aws-samples/master/cognito-federated-auth/CognitoBigPicture.png)
+![Big Picture](https://raw.githubusercontent.com/ramonaoldf/aws-samples/master/cognito-federated-auth/CognitoBigPicture.png)
 
 The main motivation is to be able to create a client with no dependencies to AWS SDK.
 
@@ -68,7 +68,7 @@ HTTP/1.1 200 OK
 - The URL `ApiUrl` is listed in the outputs of the stack from the third step.
 - Create a request based on the result data from the step five. 
   
-![Request via Postman](https://raw.githubusercontent.com/ttulka/aws-samples/master/cognito-federated-auth/postman.png)
+![Request via Postman](https://raw.githubusercontent.com/ramonaoldf/aws-samples/master/cognito-federated-auth/postman.png)
 
 Calling the URL without the AIM credentials must result to `403` HTTP Status.
 
