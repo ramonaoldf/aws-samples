@@ -24,7 +24,7 @@
     "typescript": "^2.9.2"
   },
   "dependencies": {
-    "node-jose": "^1.1.0",
+    "node-jose": "^2.2.0",
     "uuidv1": "^1.6.14"
   }
 }
